@@ -1,0 +1,5 @@
+﻿  Utilities.cpp
+C:\Users\Jia Hua\Desktop\WS08\part 1\Element.h(56,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Jia Hua\Desktop\WS08\part 1\Element.h(64,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Jia Hua\Desktop\WS08\part 1\Element.h(72,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\Jia Hua\Desktop\WS08\part 1\x64\Debug\Project1.exe
