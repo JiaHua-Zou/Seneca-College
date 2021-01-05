@@ -1,0 +1,22 @@
+
+html{
+    height:100%;
+}
+
+.navbar-brand{
+    color:pink;
+    background-color:white;
+}
+.container{
+    background-color: #f1f1f1;
+    border: 1px solid #d3d3d3;
+    text-align: center;
+    border-radius: 20px;
+}
+body{
+    background: linear-gradient(#f1f1f1 20%,grey) no-repeat center center fixed; 
+}
+
+.col-md-12{
+    font-family: 'Sansita Swashed', cursive;
+}
