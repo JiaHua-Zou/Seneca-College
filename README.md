@@ -1,5 +1,5 @@
 # Seneca College
-##School Works
+## School Works
  
-##Semester 3
+## Semester 3
 
