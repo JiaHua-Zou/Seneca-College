@@ -4,7 +4,7 @@
 ### Semester 3
 OOP345: Object Oriented Programming crouse.
 WEB322: Web Programming course.
- -Language used:
+ - Language used:
 - aaa
 
 (HTML, CSS3, Node.js, handlebars, 
