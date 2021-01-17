@@ -5,7 +5,7 @@
 OOP345: Object Oriented Programming crouse.
 WEB322: Web Programming course.
  - Language used:
-   - aaa
-
-(HTML, CSS3, Node.js, handlebars, 
+   - HTML, CSS3, Node.js, Git
+ - Other programs:
+   - Handlebars, GIT, Heroku, express 
 DBS301: Database course that uses Oracle SQL.
