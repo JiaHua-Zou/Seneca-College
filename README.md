@@ -2,7 +2,8 @@
 ## School Works
  
 ### Semester 3
-OOP345: Object Oriented Programming crouse.- Language used:
+OOP345: Object Oriented Programming crouse.
+ - Language used:
    - C++
    
 WEB322: Web Programming course.
