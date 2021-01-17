@@ -8,4 +8,5 @@ WEB322: Web Programming course.
    - HTML, CSS3, Node.js, Git
  - Other programs:
    - Handlebars, GIT, Heroku, express
+   
 DBS301: Database course that uses Oracle SQL.
